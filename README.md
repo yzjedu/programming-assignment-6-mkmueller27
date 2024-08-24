@@ -3,7 +3,7 @@
 ## Notice
 
 - **For this assignment you can work in a group of two or three members**
-- Forming a group is totaly upto you
+- Forming a group is totally upto you
 
 ## Objective
 
